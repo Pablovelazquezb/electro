@@ -1,5 +1,6 @@
 flask==3.0.0
 flask-cors==4.0.0
 python-dotenv==1.0.0
-supabase==2.3.0
-egauge==0.7.0
+supabase==2.9.0
+egauge-python==0.7.3
+websockets>=13.0
